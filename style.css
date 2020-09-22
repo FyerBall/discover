@@ -171,7 +171,7 @@ input {
   background: var(--blue-color);
   color: var(--yellow-color);
   letter-spacing: 0.1rem;
-  font-size: 1.3rem;
+  font-size: 3.3rem;
 }
 .card__info {
   padding: 1rem;
@@ -307,6 +307,7 @@ input {
   }
   .gallery {
     margin-bottom: 4rem;
+    width: 40%;
   }
   .review > .card__img {
     height: 15rem;
